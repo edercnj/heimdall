@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HeimdallApplication {
+public class Heimdall {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HeimdallApplication.class, args);
+		SpringApplication.run(Heimdall.class, args);
 	}
 
 }
