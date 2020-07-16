@@ -1,4 +1,4 @@
-package com.br.pantheon.heimdall;
+package com.br.valhalla.heimdall;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
